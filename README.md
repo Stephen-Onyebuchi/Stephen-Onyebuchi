@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stephen-Onyebuchi
-- 👀 I’m interested in ...Building visually appealing websites through Frontend development
-- 🌱 I’m currently learning ...HTML & VANILLA CSS
+- 👀 I’m interested in ...Building a visually appealing website that will have the capacity to attract leads.
+- 🌱 I’m currently learning ...HTML, CSS, and JAVASCRIPT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
